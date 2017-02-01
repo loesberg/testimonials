@@ -1,0 +1,4 @@
+#sortable li {
+	cursor: move;
+	padding: 0.7rem;
+}
